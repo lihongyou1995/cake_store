@@ -1,4 +1,4 @@
-# dgd
+# cakestore
 
 > A Vue.js project
 
